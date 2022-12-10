@@ -1,7 +1,6 @@
 {
   "name": "mern",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon backend/server.js",
@@ -20,5 +19,16 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.7.3",
     "nodemon": "^2.0.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ever-It-Lazy/MERN-Tutorial-series.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Ever-It-Lazy/MERN-Tutorial-series/issues"
+  },
+  "homepage": "https://github.com/Ever-It-Lazy/MERN-Tutorial-series#readme",
+  "description": ""
 }
